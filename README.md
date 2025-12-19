@@ -60,7 +60,15 @@ If starting from scratch, follow the [Detailed Setup Instructions](#detailed-set
 **IMPORTANT:** Run these scripts in order. Each script must complete successfully before running the next one.
 
 #### Step 0: Downloading Australian Bureau of Statistics Data
-Instructions on ABS_Data.md
+Instructions on ABS_Data.md.
+
+By following these instructions you can create your own custom datasets for personalized analysis you are interested in, but I still provide all the necesary files to run this demo.
+
+The data files are too large for GitHub. Download them from:
+  - /Raw: https://drive.google.com/drive/folders/1S_4NK4uSLazagQVEvZBLVoZMWoEPRHY3?usp=drive_link
+  - /Processed: https://drive.google.com/drive/folders/1mGxdNDqN3nwXDLlSa2XhLyjlzznMwWxH?usp=drive_link
+
+  Extract to the project directory before running the app.
 
 #### Step 1: Extract SA1 Locations
 Extracts latitude/longitude coordinates from the shapefile.
